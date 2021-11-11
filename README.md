@@ -26,6 +26,21 @@
 **What could I improve?**
 >I was slow in my process of getting my basic project running, so given more time I would like some other features added to my app.<br />
 >For example, custom queries or implementing Mockito. <br />
+<br />
+
+**Postman requests**
+<br />
+
+**Output from the API**
+<br />
+
+**My database**
+<br />
+**Test results**
+<br />
+**Coverage report**
+<br />
 
 
-! [Whitelable error] (/images/jira.png)
+
+<img src="https://user-images.githubusercontent.com/91255587/141319172-7991a4e1-b839-49be-9974-2c05c00cc73c.png" width="30%"></img> <img src="https://user-images.githubusercontent.com/91255587/141319201-4f11dd1a-34a4-4ccf-a9bf-a029f2ff190a.png" width="30%"></img> <img src="https://cloud.githubusercontent.com/assets/4307137/10105290/2a183f3a-63ae-11e5-9380-50d9f6d8afd6.png" width="30%"></img> <img src="https://cloud.githubusercontent.com/assets/4307137/10105284/26aa7ad4-63ae-11e5-88b7-bc523a095c9f.png" width="30%"></img> <img src="https://cloud.githubusercontent.com/assets/4307137/10105288/28698fae-63ae-11e5-8ba7-a62360a8e8a7.png" width="30%"></img> <img src="https://cloud.githubusercontent.com/assets/4307137/10105283/251b6868-63ae-11e5-9918-b789d9d682ec.png" width="30%"></img> <img src="https://cloud.githubusercontent.com/assets/4307137/10105290/2a183f3a-63ae-11e5-9380-50d9f6d8afd6.png" width="30%"></img> 
