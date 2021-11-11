@@ -26,4 +26,6 @@
 **What could I improve?**
 >I was slow in my process of getting my basic project running, so given more time I would like some other features added to my app.<br />
 >For example, custom queries or implementing Mockito. <br />
->
+
+
+! [Whitelable error] (/images/jira.png)
