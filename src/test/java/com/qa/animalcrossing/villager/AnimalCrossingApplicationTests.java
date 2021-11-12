@@ -1,0 +1,15 @@
+//package com.qa.animalcrossing.villager;
+//
+//import org.junit.jupiter.api.Test;
+//import org.springframework.boot.test.context.SpringBootTest;
+//import org.springframework.test.context.ActiveProfiles;
+//
+//@SpringBootTest
+//@ActiveProfiles("test") // sets the profile to 'test'
+//class AnimalCrossingApplicationTests {
+//
+//	@Test
+//	void contextLoads() {
+//	}
+//
+//}
