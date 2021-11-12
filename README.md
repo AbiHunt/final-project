@@ -1,4 +1,4 @@
-# 🌻 🐕 🌱 🦡 Welcome to my Animal Crossing Project 🏡 🐸 🐈 🌳
+# 🌻 🐈 Welcome to my Animal Crossing Project 🏡 🐸 
 ### :octocat: Final project for QA Coding Bootcamp :octocat:
 
 **What were my aims for this project?** <br />
